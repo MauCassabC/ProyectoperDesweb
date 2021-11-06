@@ -1,5 +1,5 @@
 const bulb = document.querySelector(".bulb")
-const menu = document.querySelector(".menu-navigation")
+const menu = document.querySelector(".menu-navegacion")
 
 console.log(bulb)
 
